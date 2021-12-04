@@ -1,6 +1,6 @@
 - 👋 Olá, eu me chamo @PetronioN
 - 👀 Tenho interesse em astronomia, programação e empreendedorismo.
-- 🌱 Atualmente estou estudando Java.
+- 🌱 Atualmente estou estudando para me tornar um FullStack Developer.
 - 💞️ Pretendo colaboram com qualquer projeto no qual eu tenha os requisitos.
 - 📫 Instagram: petronio.rocha - email: petroniorocha81@gmail.com
 
