@@ -106,7 +106,7 @@
 <div align="center">
   <h2>Edições Gráficas</h2>
 </div>
-<div>
+<div align="center">
   
   <!-- Imagem Homem Aranha -->
   <a href="https://www.instagram.com/p/CWzbeGMsi1N/" target="_blank"><img align="center" width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148106091-263dd598-d623-433d-adae-083c62de8802.jpeg" title="Homem Aranha: Sem volta pra casa"/></a>
