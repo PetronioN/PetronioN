@@ -120,7 +120,7 @@
 </div>
   
 <!-- POSTAGENS -->
-<div align="left">
+<div align="center">
   <!-- Melhor linguagem de programação --> <a href="https://www.instagram.com/p/CWQ8k7LpjKj/" target="_blank"><img width="300" height="300" padding="0 0 20 0" src="https://user-images.githubusercontent.com/87718587/148107665-67d0e97e-9a14-4e61-babc-c348dbece16a.jpeg" title="Melhor linguagem de programação" /></a> <!-- Nunca faça isso em um banco de dados --> <a href="https://www.instagram.com/p/CT-aCoFpmA8/"><img width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148115772-da6ad077-bcc0-4a8a-87fc-4119d726eada.jpeg" title="Nunca faça isso em um banco de dados" /></a>
   
   <br />
