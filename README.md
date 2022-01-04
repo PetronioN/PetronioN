@@ -119,30 +119,22 @@
   <h2>Postagens</h2>
 </div>
   
-<!-- Primeira Linha -->
-<div align="center">
-  <!-- Melhor linguagem de programação --> <a href="https://www.instagram.com/p/CWQ8k7LpjKj/" target="_blank"><img align="left" width="300" height="300" padding="0 0 20 0" src="https://user-images.githubusercontent.com/87718587/148107665-67d0e97e-9a14-4e61-babc-c348dbece16a.jpeg" title="Melhor linguagem de programação" /></a> <!-- Nunca faça isso em um banco de dados --> <a href="https://www.instagram.com/p/CT-aCoFpmA8/"><img align="center" width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148115772-da6ad077-bcc0-4a8a-87fc-4119d726eada.jpeg" title="Nunca faça isso em um banco de dados" /></a> <!-- 5 erros que todo FRONTEND comete --><a href="https://www.instagram.com/p/CT5MAWXpg1s/"><img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148115897-1770baca-cca8-45dd-94aa-dcff627581af.jpeg" title="5 erros que todo FRONTEND comete" /></a>
+<!-- POSTAGENS -->
+<div align="left">
+  <!-- Melhor linguagem de programação --> <a href="https://www.instagram.com/p/CWQ8k7LpjKj/" target="_blank"><img width="300" height="300" padding="0 0 20 0" src="https://user-images.githubusercontent.com/87718587/148107665-67d0e97e-9a14-4e61-babc-c348dbece16a.jpeg" title="Melhor linguagem de programação" /></a> <!-- Nunca faça isso em um banco de dados --> <a href="https://www.instagram.com/p/CT-aCoFpmA8/"><img width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148115772-da6ad077-bcc0-4a8a-87fc-4119d726eada.jpeg" title="Nunca faça isso em um banco de dados" /></a>
+  
+  <br />
+  <!-- 5 erros que todo FRONTEND comete --> <a href="https://www.instagram.com/p/CT5MAWXpg1s/"><img width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148115897-1770baca-cca8-45dd-94aa-dcff627581af.jpeg" title="5 erros que todo FRONTEND comete" /></a><!-- Falando como um computador --> <a href="https://www.instagram.com/p/CT2qd2LpgRp/"><img width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148117172-bdf0cbfc-48b8-409b-ae92-8d74a0f75d49.jpeg" title="Falando como um computador" /></a>
+  
+  <br />
+  <!-- 5 erros que todo BACKEND comete --> <a href="https://www.instagram.com/p/CT0XQsjsGX1/"><img width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148117267-7b2530ce-09be-42ef-987a-49f48ae1e683.jpeg" title="5 erros que todo BACKEND comete" /></a><!-- A pior linguagem de programação --> <a href="https://www.instagram.com/p/CTx_AQKsiee/"><img width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148117354-4a608e47-3ee9-40da-bbae-59b6197fc52f.jpeg" title="A pior linguagem de programação" /></a>
+  
+  <br />
+  <!-- Perdendo o medo da tela preta --><a href="https://www.instagram.com/p/CTsbfnaJwjE/"><img width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148117515-4f61f9bc-3e33-4491-a31f-299d3a1c9d28.jpeg" title="Perdendo o medo da tela preta" /></a><!-- Como aprender qualquer linguagem de programação e se tornar uma estrela --> <a href="https://www.instagram.com/p/CTp1L-_JQS4/"><img width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148117915-44839dff-14db-40fe-acda-31a9ee3bc673.jpeg" title="Como aprender qualquer linguagem de programação e se tornar uma estrela" /></a> 
+  
 </div>
 
 <br />
-
-<!-- Segunda Linha -->
-<div align="center">
-  
-  <!-- Falando como um computador -->
-  <a href="https://www.instagram.com/p/CT2qd2LpgRp/"><img align="left" width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148117172-bdf0cbfc-48b8-409b-ae92-8d74a0f75d49.jpeg" title="Falando como um computador" /></a> <!-- 5 erros que todo BACKEND comete --> <a href="https://www.instagram.com/p/CT0XQsjsGX1/"><img align="center" width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148117267-7b2530ce-09be-42ef-987a-49f48ae1e683.jpeg" title="5 erros que todo BACKEND comete" /></a> <!-- A pior linguagem de programação --> <a href="https://www.instagram.com/p/CTx_AQKsiee/"><img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148117354-4a608e47-3ee9-40da-bbae-59b6197fc52f.jpeg" title="A pior linguagem de programação" /></a>
-  
-</div>
-
-<!-- Terceira Linha -->
-<div align="center">
-  
-  <!-- Perdendo o medo da tela preta -->
-  <a href="https://www.instagram.com/p/CTsbfnaJwjE/"><img align="left" width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148117515-4f61f9bc-3e33-4491-a31f-299d3a1c9d28.jpeg" title="Perdendo o medo da tela preta" /></a> <!-- Como aprender qualquer linguagem de programação e se tornar uma estrela --> <a href="https://www.instagram.com/p/CTp1L-_JQS4/"><img align="center" width="300" height="300" src="https://user-images.githubusercontent.com/87718587/148117915-44839dff-14db-40fe-acda-31a9ee3bc673.jpeg" title="Como aprender qualquer linguagem de programação e se tornar uma estrela" /></a> <!-- Loading --> <a href=""><img align="right" width="300" height="300" src="https://i.pinimg.com/originals/28/47/2d/28472d243bc5b02178de348812e0792e.gif" title="Em produção" /></a>
-  
-</div>
-
-<br>
 
 ## <div align="center"><strong>Estatísticas</strong></div>
 
