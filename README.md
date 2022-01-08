@@ -95,7 +95,7 @@
 <p>Estarei disponibilizando abaixo alguns dos melhores projetos que fiz até o momento:</p>
 <ul>
   <li><a href="https://github.com/PetronioN/dio-desafio-github-primeiro-repositorio/tree/main/Desenvolvendo%20um%20Port%20Scanner%20em%20Python" target="_blank">Port Scanner em Python</a></li>
-  <li><a href="https://github.com/PetronioN/projetos_udemy/tree/main/Projetos/AI%20Voice%20Assistant">AI Voice Assistant (Python)</a></li>
+  <li><a href="https://github.com/PetronioN/projetos_udemy/tree/main/Projetos/AI%20Voice%20Assistant"  target="_blank">AI Voice Assistant (Python)</a></li>
   <li><a href="https://github.com/PetronioN/dio-desafio-github-primeiro-repositorio/tree/main/Criando%20seu%20jogo%20de%20mem%C3%B3ria%20estilo%20Genius" target="_blank">Jogo de memória estilo Genius (JavaScript)</a></li>
   <li><a href="https://github.com/PetronioN/dio-desafio-github-primeiro-repositorio/tree/main/Recriando%20a%20interface%20da%20Netflix" target="_blank">Recriando a interface da Netflix (JS, CSS, HTML)</a></li>
 </ul>
