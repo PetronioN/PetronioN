@@ -98,6 +98,7 @@
   <li><a href="https://github.com/PetronioN/AI-Voice-Assistant"  target="_blank">AI Voice Assistant (Python)</a></li>
   <li><a href="https://github.com/PetronioN/dio-desafio-github-primeiro-repositorio/tree/main/Criando%20seu%20jogo%20de%20mem%C3%B3ria%20estilo%20Genius" target="_blank">Jogo de memória estilo Genius (JavaScript)</a></li>
   <li><a href="https://github.com/PetronioN/dio-desafio-github-primeiro-repositorio/tree/main/Recriando%20a%20interface%20da%20Netflix" target="_blank">Recriando a interface da Netflix (JS, CSS, HTML)</a></li>
+  <li><a href="https://github.com/PetronioN/Face-Recognition-App" target="_blank">Face Recognition App (HTML, Python)</a></li>
 </ul>
 
 <br />
