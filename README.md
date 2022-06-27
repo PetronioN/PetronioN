@@ -6,13 +6,11 @@
 
 ## <div align="center"><strong>Programação</strong></div>
 
-<p>Estou no mundo da programação há 3 anos, onde, em 10 de março de 2018, aprendi a minha primeira linguagem, o HTML. Apesar de muito tempo envolvido nesses conhecimentos, estou me apronfundando nas linguagens há 1 ano e meio, onde parei de brincar com comandos e resolvi dar oportunidade a uma carreira que vai me trazer muito entusiasmo e satisfação. As linguagens e ferramentas auxiliares que ando me esforçando para aprender cada vez mais são as seguintes:</p> 
-
 <!-- BACKEND -->
 <div>
   <h8><strong>Back-End:</strong></h8><br />
   <!-- Badge Java -->
-  <img src="https://img.shields.io/badge/-Java-FF160B?logo=java&logoColor=white&style=for-the-badge" width="64px" />
+  <img src="https://img.shields.io/badge/-Java-FF160B?logo=Java&logoColor=white&style=for-the-badge" width="48px" />
   <!-- Badge JavaScript -->
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge" width="105px" />
   <!-- Badge Python -->
@@ -99,6 +97,12 @@
   <li><a href="https://github.com/PetronioN/dio-desafio-github-primeiro-repositorio/tree/main/Criando%20seu%20jogo%20de%20mem%C3%B3ria%20estilo%20Genius" target="_blank">Jogo de memória estilo Genius (JavaScript)</a></li>
   <li><a href="https://github.com/PetronioN/dio-desafio-github-primeiro-repositorio/tree/main/Recriando%20a%20interface%20da%20Netflix" target="_blank">Recriando a interface da Netflix (JS, CSS, HTML)</a></li>
   <li><a href="https://github.com/PetronioN/Face-Recognition-App" target="_blank">Face Recognition App (HTML, Python)</a></li>
+  <div>
+    <li><a href="https://github.com/PetronioN/projeto_final_BC17" target="_blank">Projeto Final SoulCode</a></li>
+    <p>No projeto acima foi aplicado o processo de ETL, além da análise dos dados, plotagem de gráficos, criação de pipelines e utilização da plataforma GCP.<br />
+    > Os dados utilizados no projeto foram carregados e extraídos dos bancos relacionais MySQL e PostgreSQL;<br />
+    > Os datasets finais foram carregados no banco não relacional MongoDB e levados para análise no Google Cloud Platform;</p>
+  </div>
 </ul>
 
 <br />
