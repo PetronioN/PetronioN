@@ -67,11 +67,20 @@
 <!-- BANCO DE DADOS -->
 <div>
   <h8><strong>Bancos de Dados:</strong></h8>
+  <!-- SQL -->
   <br />
   <!-- Badge Microsoft SQL Server -->
   <img src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?logo=Microsoft-SQL-Server&logoColor=white&style=for-the-badge" width="180px" />
   <!-- Badge MySQL -->
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" width="78px" />
+  <!-- Badge PostgreSQL -->
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" width="116px" />
+  
+  <!-- NoSQL -->
+  <!-- Badge MongoDB -->
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" width="98px" />
+  <!-- Badge Cassandra -->
+  <img src="https://img.shields.io/badge/-Cassandra-1287B1?logo=Apache Cassandra&logoColor=white&style=for-the-badge" width="110px" />
 </div>
 <br />
 
@@ -85,6 +94,17 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge" width="70px" />
   <!-- Badge Ubuntu -->
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=white&style=for-the-badge" width="84px" />
+</div>
+<br />
+
+<!-- CLOUD -->
+<div>
+  <h8>Cloud:</h8>
+  <br />
+  <!-- Badge AWS -->
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon AWS&logoColor=white&style=for-the-badge" width="68px" />
+  <!-- Badge GCP -->
+  <img src="https://img.shields.io/badge/-GCP-4285F4?logo=Google Cloud&logoColor=white&style=for-the-badge" width="65px" />
 </div>
 
 <br>
@@ -102,6 +122,7 @@
     <p>No projeto acima foi aplicado o processo de ETL, além da análise dos dados, plotagem de gráficos, criação de pipelines e utilização da plataforma GCP.<br />
     > Os dados utilizados no projeto foram carregados e extraídos dos bancos relacionais MySQL e PostgreSQL;<br />
     > Os datasets finais foram carregados no banco não relacional MongoDB e levados para análise no Google Cloud Platform;</p>
+    <p><b>No meu Instagram há diversas postagens com análises de dados. Link disponibilizado ao fim da page.</b></p>
   </div>
 </ul>
 
@@ -149,8 +170,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PetronioN&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
   
-<br>
-<br>
+<br />
+<br />
 <div align="center">
   <a href="https://www.instagram.com/petronio.rocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/francisco-petr%C3%B4nio-892a971a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -158,4 +179,5 @@
   <a href="https://www.twitch.tv/petronior" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="github.com/PetronioN" target="_blank"><img src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" target="_blank">
   <a href="https://www.udemy.com/user/francisco-petronio-nascimento-da-rocha/" target="_blank"><img src="https://img.shields.io/badge/-Udemy-A435F0?logo=Udemy&logoColor=white&style=for-the-badge" width="85px" />
+  <a href="https://www.kaggle.com/petronio" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=for-the-badge" width="90px" />
 </div>
